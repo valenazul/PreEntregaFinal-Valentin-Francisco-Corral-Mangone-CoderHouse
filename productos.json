@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mopa",
+    "precio": 1000,
+    "imagen": "mi_mopa.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Shampoo",
+    "precio": 2000,
+    "imagen": "shampoo.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Silicona",
+    "precio": 3500,
+    "imagen": "silicona.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cuero",
+    "precio": 5000,
+    "imagen": "cuero.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cera",
+    "precio": 500,
+    "imagen": "cera.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Brochas",
+    "precio": 120,
+    "imagen": "brochas.jpg"
+  }
+]
